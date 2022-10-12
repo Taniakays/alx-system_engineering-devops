@@ -1,2 +1,4 @@
+
+
 #!/bin/bash
-printf %xn $DECIMAL
+'printf '%x\n' $DECIMAL'>>100-decimal_to_hexadecimal
