@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Script Connect
+ssh -i ~/.ssh/school ubuntu@54.164.62.78
